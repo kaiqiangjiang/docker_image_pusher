@@ -1,2 +1,2 @@
 
-homeassistant/home-assistant:rc
+homeassistant/home-assistant:stable
