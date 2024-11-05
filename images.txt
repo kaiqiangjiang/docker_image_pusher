@@ -1,3 +1,3 @@
 
-homeassistant/home-assistant:2022.2.0.dev20220121
+homeassistant/home-assistant@sha256:eee604b73e48dc875d618dde08c863fe46bcf79e436a2429d1b4132c2418d651
 
